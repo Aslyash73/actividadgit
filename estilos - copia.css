@@ -1,0 +1,34 @@
+body {
+    /* heigh:665px; */
+    background-image: url("https://thumbs.dreamstime.com/b/oftalmología-modelo-inconsútil-de-la-atención-sanitaria-de-los-ojos-fondo-médico-del-vector-del-color-azul-las-lentes-de-92519892.jpg");
+background-size: 90rem;
+    
+  }
+aside{
+    float: right;
+   
+}
+.circulo{
+    clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+    text-decoration: antiquewhite;
+}
+h2 {
+    color: rgba(43, 0, 78, 0.87);
+  
+}
+p { 
+    background-color: rgb(223, 189, 226);
+    opacity: 0.9;
+}
+a{
+    text-indent: 20px;
+   background-image: url("http://3.bp.blogspot.com/_UMxHrJN54AM/TJ3QAPQKycI/AAAAAAAABJ4/YM7rBCvXNuQ/s1600/wallpaper+ojo+3.jpeg");
+   background-size: 50rem;
+}
+footer{
+    align-self: flex-end;
+    background-image: url("https://i.pinimg.com/736x/0a/c8/07/0ac80733d7683443f206e27169b33f5f.jpg");
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
